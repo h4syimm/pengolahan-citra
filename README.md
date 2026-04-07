@@ -1,3 +1,3 @@
-# Digital Image Processing Course Assignments
+# Pengolahan Citra
 
-This repository contains a collection of Jupyter Notebook assignments for a digital image processing course. Each notebook includes practical implementations and exercises related to image processing techniques and algorithms.
+Repositori ini berisi kumpulan tugas Jupyter Notebook untuk mata kuliah pemrosesan gambar digital. Setiap notebook mencakup penerapan praktis dan latihan yang berkaitan dengan teknik dan algoritma pemrosesan gambar.
